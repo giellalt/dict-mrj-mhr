@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mrj"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote>
+</lics>
+<e>
+   <lg>
+     <l pos="Det">вӹзымшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">визымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">коклышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">колымшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">кудлушы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">кудлымшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">кудымшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">кудымшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">кӓндӓкшӹмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">кандашымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луатвӹзымшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латвизымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луатикшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латикымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луаткокшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латкокымшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луаткудымшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латкудымшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луаткымшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латкумшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луаткӓндӓкшӹмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латкандашымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луатнӹлымшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латнылымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луатшӹмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латшымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">луатӹндекшӹмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">латиндешымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">нӹллымшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">ныллымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">нӹлымшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">нылымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">шымшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">шымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">шӱдӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">шӱдымшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">шӹмлушы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">шымлымше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">ӹндекшӹмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="Det">индешымше</t>
+     </tg>
+   </mg>
+</e>
+</r>

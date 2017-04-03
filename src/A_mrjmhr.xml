@@ -1,0 +1,12407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mrj"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote>
+</lics>
+
+
+<e>
+   <lg>
+     <l pos="A">аккел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">оккӱл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">акшак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">окшак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ала</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ола</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">анжалтышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ончалтышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">арик-сурик</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">арик-турик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">атылан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">отылан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">важан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вожан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">важын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вожын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вазаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">возаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">валгыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">волгыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">варашы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">варасе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ведӹрӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ведран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вишкӹдӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вишкыде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">виӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">виян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">виӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вочык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">важык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вуйдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вуйдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вуйнамат</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">винамат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вуйнаматан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">винаматан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вуйстыкла</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вустык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вускы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вуско</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вусы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вусо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вӱдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выжалалтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужалалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выжалымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужалыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выжалымы-нӓлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужалыме-налме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выжалышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужалыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выргемӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вургеман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вырдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вӱрдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вӱран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выциӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вичияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">выцкӹж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вичкыж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вычыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вучыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вычымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вучымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓргӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">верган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓтӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ватан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ваш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓш-вӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ваш-ваш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓшке</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вашке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓшкен</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вашкен</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӓшкӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вашкыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӹдыжгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вӱдыжгӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӹдыжгӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вӱдыжгышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӹргеньӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">вӱргене</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вӹчы-вӹчы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">выче-выче</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">гань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">гай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">годшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">годсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ежынгӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йыжыҥан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ечӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ече</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">жепеш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">жаплан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">жеплӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">жаплыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">жеплӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">жаплыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">икань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">икгай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">икечшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">икечысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">икиӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">икияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">иктӓ-махань(ы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">иктаж-могай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">имешшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱмашсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">имни</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">имне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">имнидӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">имньыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">имниӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">имнян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ип</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йып</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ир</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ирвел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрвел</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ирвелнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрвелысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ире</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эре</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ирӹк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ирӹкдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрыкдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ирӹктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрыктыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ирӹкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">итырӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йытыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">итырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йытыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">итӹн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йытын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">иӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">иян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">иӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йишӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ешан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йонгата</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йоҥгата</t>
+       <t pos="A">йоҥгыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йонгы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йоҥго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йыдвел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱдвел</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йыкырикӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йокрок</t>
+       <t pos="A">укырака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йылмӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йылман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йымыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">юмыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йырнӹк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йырнык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓктерӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">яктеран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓктӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">якте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓмдӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ямде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓмдӹлӓлтмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ямдылалтме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓмдӹлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ямдылыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓнгӓр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">яҥгар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓрсӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ярсыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓрсӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ярсыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓрӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">яра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓрӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ерысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓсльӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ясльысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓстӓрӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ястаралтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓстӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ястарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӓтлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ятлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӧндӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧндымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӱкшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӹвыжӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йывыжа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӹвыжӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йывыжан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӹлмыдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йылмыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӹнгылӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йыҥгыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӹр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">йӹргешкӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йыргешке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кавыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ковыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">казаной</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">казённый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">казаньга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">казаҥга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">каймы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">коймо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кайшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">койшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кайышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">койышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">какырака</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кокрака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">калац</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">калач</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">карак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">корак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кахырыктышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кокырыктышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">качак-шапак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кочак-шопак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">качмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кочмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кашар(гы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кошар</t>
+       <t pos="A">кошарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кашкышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кашкыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">каштыра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">коштыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кая</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">коя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">келгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">келге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">келгӹцӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">келгытан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">келеш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱлеш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">келеш-аккел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱлеш-оккӱл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кензӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кенча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кердшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кертше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">керек-махань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">керек-могай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кечӹвӓлвел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кечывалвел</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кечӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кечыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кир</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кере</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">коаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куакш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кого</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кугу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">когоэмдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кугемдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">когоэшнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кугешныше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кокиӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кокияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">колхозыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">колхозысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">колыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">колыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">комдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">комдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">комы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">коштымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">коштымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">крестӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыресан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кугижӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кугыжа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кужикӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кужака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кужы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кужу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кужын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кужун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кукшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кукшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">купыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">купысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">курымыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">курымысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">куштылгы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куштылго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыва</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кува</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыжаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кужаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыжгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱжгӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыйыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кудыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымдык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумдык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымыж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумыж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымылан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумылан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымылантшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумылаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымылдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумылдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымылзы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумылзо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кымытан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кумытан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кынамшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кунамсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кындымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кундымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыныж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куныж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыптыран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куптыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыпышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">купышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыралдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куралдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыралмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куралме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыралшаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куралшаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кырпӹц</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кермыч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кырыкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">курыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кырыкыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">курыкысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кырышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куршан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кыткан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">куткан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кытын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кутынь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кытӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱчымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кычемӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кучеман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓвӓнӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">каванан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓдӹр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кадыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓкӓр(гӹ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">какар</t>
+       <t pos="A">какарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓнгӹж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кеҥеж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓнгӹжӹмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кеҥежымсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓньӹл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">каньыле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓньӹсӹр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">каньысыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓнӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">каныме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓрӓшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">карашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓшкы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кашка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӓшкӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кашка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӧргыштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӧргысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӱктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱктымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӱкшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱкшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӱкшӹцӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱкшытан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӱшнышӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱшнысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӱшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹдежӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кыдежан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹжгыцӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱжгытан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹзылык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱзылык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹзытшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кызытсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кылме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹляш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱляш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹне</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кыне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹнергыт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кынергут</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹнӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кына</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹнӓ шуды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кына</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹрт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱрт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹрӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱрен</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹрӓнӓлгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱреналге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹрӓнӓлгӹ-луды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱреналге-сур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹрӓнӓлгӹ-шимӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱреналге-шеме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹрӓнӓлгӹ-якшаргы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱреналге-йошкарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹтык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кӱчык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кӹчӓкӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кычака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ладемӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лодеман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ланзан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лончан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лаптака</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лопка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лаптыра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лоптыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лартака</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ларката</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ласко</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ласка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лидӹмӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лийдымаш</t>
+       <t pos="A">лийдымашлык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лидӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лийдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">логан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лакан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лудалгы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лудалге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лудалгы-шимӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лудалге-шеме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лывыргы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лывырге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лыдмаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лудмаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лудо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лыжгешӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лыжгайыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лым</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лум</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лыман</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">луман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лымеш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лӱмеш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лымлӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лӱмлӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лымӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лӱман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лыпшан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лупшан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лявӹртӹшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лавыртышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лявӹрӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лавыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лязӹрӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лазыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лӓктӹшдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лектышдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лӓктӹшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лектышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лӹвыжгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лывыжге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лӹмдымӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лӱмдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лӹмлымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">лӱмлымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мары</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">марий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">марын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">марий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">махань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">могай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">махань-гӹнят</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">могай-гынат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">махань-техень</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">могай-тугай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мерцӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мерчыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">миж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">меж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мижӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">межан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">молнамшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">молгунамсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мондыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мондыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мума</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">бума</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мыжыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мужыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мыжыран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мужыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мынан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мунан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мындӹр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мӱндыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мыстыри</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мустырий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мычашан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мучашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мӓгӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мага</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мӓкшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мекшан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мӓнгӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">меҥган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мӱӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мӱян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мӹндырнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мӱндырсӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мӹшкырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">мӱшкыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нарынзалгы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нарынчалге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нарынзалгы-ыжар(гы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нарынчалге-ужар</t>
+       <t pos="A">нарынчалге-ужарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нарынзы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нарынче</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">начкы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ночко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">негӹц</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">негыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нелӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">неле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нердымӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нердыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нечкӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нечке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нимадымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нимодымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нимахань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нимогай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ниӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ниян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нужда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нужна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ныгыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нугыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нышкӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нӱшкӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">няка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ньока</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нӓрӓштӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нарашта</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нӱшмӹлык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нӧшмылык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нӱштӹлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">нӧштылмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нӹжылгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ныжылге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">оголан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">угылан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">олак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">улак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пандашан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пондашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пандашдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пондашдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">парсын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">порсын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">парсынан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">порсынан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">партышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">портышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пасна</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">посна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пачан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">почан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пачдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">почдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пачмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">почмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пачылтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">почылтшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">паян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">поян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пелиӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пелияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пелтарта</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пелторта</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">перкеӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">перкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пидӹшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пидышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пингӹдемдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пеҥгыдемдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пингӹдӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пеҥгыде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пиштӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пыштыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пиштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пыштыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">покшал</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">покшел</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">покшалнышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">покшелнысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">понган</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">поҥган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">понгыжалтмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">помыжалтме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">понгыжалтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">помыжалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">принимайымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">приниматлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пролетари</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пролетар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пуйыралтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱралтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пуйырымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱрымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пурлы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пурло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пуры</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">поро</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пустангдышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пустаҥдыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пустангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пустаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">путыялтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">путаялтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пуштмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуштмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пушӓнгӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушеҥган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пушӓнгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушеҥге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пушӓнгӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушеҥгысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыдештӓлтмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудешталтме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыдештӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудешталтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыдыранымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудыраныме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыдыртылшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудыртылшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыдыртымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудыртымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыдыртышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудыртышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыжарымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пужарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыжгайышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пужкалыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыжлышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пужлышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыжымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пужымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыжышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пужышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыйырки</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">паярка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пылдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пылдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыле</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пылӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пылан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пынан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пунан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пындашан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пундашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пындашдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пундашдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пынзалмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пунчалме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыракан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуракан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыракангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуракаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыракдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуракдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыргыжан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пургыжан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыргыждымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пургыждымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыргыжтышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пургыжтышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱрдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыредӹлшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуредылше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пурмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пыртымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пуртымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырцӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пырчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырылмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пурлмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пурымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырымы-лӓкмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пурымо-лекме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пырышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пурышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пысӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">писе</t>
+       <t pos="A">пӱсӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пытьырик</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пычырик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пытӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пытыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пытӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пытыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пычан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пучан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пычангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пучаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пычмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пучымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пычмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱчмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пычшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱчшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пышангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пышкыдедӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушкыдемдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пышкыдемдӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушкыдемдыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пышкыдемшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушкыдемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пышкыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пушкыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӓлӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пале</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӓлӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">палыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӓлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">палыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӓшӓдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пашадыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӓшӓзӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пашазе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӧремӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱреман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӧртӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӧрдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӧртӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӧртысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱйдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱжвыдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱжвӱдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱжвӹдӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱжвӱдаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱжӓлтмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱжалтме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱжӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱжалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱктымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱктӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱктышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱкшемӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пышкемалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱкшемӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пышкеман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱйымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱялтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӱӓштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱясе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹдештшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пудештше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹжӓшдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пыжашдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹзыргӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пызыргыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹзӹрӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пызыралтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹлышӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пылышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹльдыри</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пыльдырий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹлӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пылаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹсештшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱсештше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹсмӓндӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пысмандыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹтырнӹлшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱтырнылшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹтырӹмӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱтырыман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹтырӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱтырымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹтӓртӹш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пытартыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹтӹрӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱтыралтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹц</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пич</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹцкемӹш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пычкемыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹчкедӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱчкедыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹчкылтмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱчкылтмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пӹчкылтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">пӱчкылтшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ранялтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ранитлалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">раскыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рашкыде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">расшифруйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">расшифроватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">реабилитируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">реабилитироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">регулируйышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">регулироватлыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">редактируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">редактироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рекомендуйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рекомендоватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">репрессируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">репрессироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рехенялтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">регенчалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рехенян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">регенчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рехенянгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">регенчаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">решӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">решитлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рифмуйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рифмоватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">роалмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">руалме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рогожаан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рогозан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">розывый</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">розовый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ромы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">руымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ружге</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱжге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ружгышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱжгышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рушангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рушаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рыждӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рыждыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рыжлӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рыжле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рӓкпадан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ракывотан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рӧднӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӧдына</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">рӹмӓлгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱмбалге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сäрнӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">савырналтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">саватар</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаватар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">савыцан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шовычан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">садвичӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">садвечан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">салалтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">солалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">салымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">солымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">самлымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сомылымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">самлышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сомылышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">самой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">самый</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">самсара</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сомсора</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">санзалан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчалан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">санзалдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчалдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">санзалтымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчалтыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сар(ы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сар</t>
+       <t pos="A">саре</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">саралгы-луды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">саралге-лудо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">саралгы-ыжаргы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">саралге-ужарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">саралгышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">саралгыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сарвалтарышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӧрвалтарыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сарвалышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӧрвалыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">саремшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">саремше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сартаан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сортан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">свезӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">свежа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сдайышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сдаватлыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">селмӓштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">салмасе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">семӓлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">семалыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">семӓлӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">семалыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">семӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">семан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сергӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">симсӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">симсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сиремӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӧреман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӓлтмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сералтме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сералтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӹкӓлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серкалыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӹмӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серыман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӹп</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серып</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӹштӹш(ӹ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сирӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">серыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ситӓлык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ситалык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ситӓртӹш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ситартыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ситӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ситыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ситӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ситыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">скирдуйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">скирдоватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">слогыштыш(ы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">слогысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">служымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">служитлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">служышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">служитлыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сменӹштӹш(ӹ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сменысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">смолян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">смолан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">снабжайымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">снабжатлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">снабжайышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">снабжатлыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">снимайымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сниматлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">согмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">согым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">содомайымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">содомлымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">соикток</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">садиктак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сойток</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">садиктак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сопкыштыш(ы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сопкысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сортируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сортироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">соты</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сото</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">страхуйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">страховатлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">стӧл тӹрӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱстелтӧрысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">суарлыкдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сорлыкдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">судныштыш(ы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">суднысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">суйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">судитлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сулыкдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сулыкдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сылнӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сылне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сылыкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱлыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сылымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сулымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сынгӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сеҥыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сынгӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сеҥыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сындӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сындыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сынзӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сынзӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сынзӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сынӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сынан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сыстык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сустык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сыцан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сыцангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱчаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓкӓлтӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сакалтыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓкӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сакыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓмӹрӹк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">самырык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓмӹрӹкемшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">самырыкемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓндӓлӹкӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сандалыкысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓпӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сапан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓрӓлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">савыралме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">савырыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӓрӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">савырыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӧрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӧрымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӱкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӱкӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱкаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӱмӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӱсӓндӓрӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӱсандарыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹгызӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӱвызымӧ</t>
+       <t pos="A">шӱгычмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹлнештӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сылнештарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹмырлӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сӱмырлышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹнгӓлтдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сеҥалтдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹнгӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сеҥалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹнзӓвыдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчавӱдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹнзӓлыкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчалыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сӹнзӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">таваран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">товаран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тавы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тово</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тагачшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тачысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тайыде</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тойыде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тайымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тойымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тамгаан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тамган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тангата</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тоҥгата</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тангыж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">теҥыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">танцуйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">танцеватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тапката</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">топката</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тапкатан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">топкатан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тапланышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">топланыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тарталык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">торталык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ташкалтышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тошкалтышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ташкымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тошкымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">театрыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">театрысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">теле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">теллык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">телылык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">телшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">телымсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тембӓл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тембал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">темдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">темдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">темшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">темше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">темӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">темыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тенгечшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">теҥгечысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тенешӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тенийсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">теплицӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">теплицысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">техень(ӹ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тыгай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тигӹтӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тегытан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тирӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">теран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тиштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">токошы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">токасе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тонган</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">томан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тонгдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">томдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">торгейӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">торгайыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">торгейӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">торгайыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тормыжан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тормозан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тормыжлымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тормозитлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тотлы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тутло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тоштемшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тоштемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тошты</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тошто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тренируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тренироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тупырдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тупрӱдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тупӹрдыдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тупрӱдыдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">турештӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">турасе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">турешӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">турасе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">туты</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тывел</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тувел</t>
+       <t pos="A">тывел</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыгыдемдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тыгыдемдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыгыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тыгыде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыгыран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тувыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыгыраш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тувыраш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыгырлык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тувырлык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыкӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱкӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тул</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тылан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тулан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тылдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тулдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тылзӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тылзан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тылзӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тылзаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тылшолан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тулшолан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тылыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тылысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тымдыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туныктыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тымдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туныктымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыменьмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тунемме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыменьшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тунемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тынгӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱҥысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тырвӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱрван</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыргата</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тургата</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыргыжландарышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тургыжландарыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыргыжланышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тургыжланыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыржалтдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туржалтдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыржалтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туржалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыржмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туржмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тырлӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱрлӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тырлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱрлымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тырхыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туркыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тырӹс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱрыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыхӓл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱгал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тышман</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тушман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыштылмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">туштылмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тыштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тусо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓзыля</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тазыла</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓйви</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тайвий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓйӹл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тайыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓйӹлӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тайылан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓйӹнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тайныше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓлякӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">таляка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓлӹкӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">талукаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓнгдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">таҥдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓнгӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">таҥаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓнгӓшӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">таҥасыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓнгӓӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">теҥгеаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрвӓнӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарваныдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрвӓнӹлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарванылме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрвӓнӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарваныме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрвӓнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарваныше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрвӓтӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарватыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрлӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарлалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӓрлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тарлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӧрлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӧрлымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӱж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱжӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӱнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱнысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹвелнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тывелсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹгодшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тугодсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹгӓнӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱганыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹгӓнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱганыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹжемӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱжеман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹкылӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱкылыдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹкылӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱкылымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹкӹлӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱкылалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹнг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱҥ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹнгӓлдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱҥалдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹнгӓлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱҥалме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹнгӓлтӹш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱҥалтыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹнгӓлшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱҥалше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹнӓмшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тунамсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹргештӹлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӧрштылмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹрдымӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱрдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹреддӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱреддыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹредмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱредме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹредӹктӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱредыктыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹрӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱрысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹтӹрӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱтыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹтӹрӓӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱтыраҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹхень(ӹ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тугай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тӹшкӓштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱшкасе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">увертӓрӹмӓшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">увертарымашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">увертӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">увертарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">увертӓрӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">увертарыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ударенидӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ударенийдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ударениӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ударениян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">уездӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">уездысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">укеӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">укеан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">уксыцмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">укшичме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">урокыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">урокысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">уты</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">уто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">утышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">утышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ушыкалымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ушкалыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хала</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ола</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">халык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">калык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хоть-махань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кеч-могай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хрестӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыресан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хрестӹлӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыресла</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">худа</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">уда</t>
+       <t pos="A">уде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хыва</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ува</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хытырымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">кутырымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цаватар</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаватар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цадыра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чодыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цажгата</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чажгата</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цамаан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чоман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цанган</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаҥан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">царга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чарга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">царгата</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаргата</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">царгатан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаргатан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">царгыжмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаргыжме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">царгыжшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаргыжше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цаткыды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чоткыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цашкерӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чашкеран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цаштыра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чоштыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цевер</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чевер</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цеплӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чеплыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церкӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черкысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церлӓнӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черланыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церлӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церотан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черетан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церотдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черетдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церотыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черетысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церпетӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черпытан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">церӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">черан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">циц</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тич</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цолга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чолга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цолгыжшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чолгыжшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цонгыртатымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чыҥгыртатыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цоргитӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаргата</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цыгӹн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чыгын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цыж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чыж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цымыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чумыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цымыраш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чумыраш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цымыргышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чумыргышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓкнӹшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чакнышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрнӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чарныдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрнӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чарныме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чара</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрӓ вуй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаравуй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрӓ вуян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаравуян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрӓкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаракан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӧклӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чоклымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӱр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӹгынӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чыгыныше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӹгӹлтышӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чыгылтышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӹреӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чуриян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӹтырнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чытырныше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">цӹтӹрнӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чытырналтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чаката</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чатката</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чангымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чоҥымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чиктӹшӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чиктышаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чимӹ-кыдашмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чийыме-кудашме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чишӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чийыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чиэмӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чиеман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чиӓлтӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чиялтыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чиӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чиян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чонгештӹлшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чоҥештылше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чыдӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чӱдӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чыката</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чатката</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӓйӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чаян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӱктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чӱктымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӱнчеӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чӱнчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӱчмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱчмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӱчӹлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">тӱчылтшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӹмӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чымалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чӹчкыдӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">чӱчкыдӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шавынян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шовынан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шавыран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шовыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шагалмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шогалме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шагалтымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шогалтыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шадыраан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шедыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шайыл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шойыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шактеӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоктеан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шактмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоктмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шактымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоктымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шактышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоктышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шалахай</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шолагай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шалгымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шогымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шалдыра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шолдыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шалдыргышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шолдыргышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шамакан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шомакан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шамакдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шомакдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шаныдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоныдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шаныкалышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шонкалыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шанымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шонымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шапка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шопка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шапы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шопо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шачмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шочмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шачмы-кушмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шочмо-кушмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шачшан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шочшан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шая</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шаягаремӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоягоремысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шелӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шелан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шерге</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шерге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шергӓкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шергакан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шергӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шерге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шерӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шеран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ши</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ший</t>
+       <t pos="A">ший</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ши-шӧртньӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ший-шӧртньӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шиждӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шиждыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шижмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шижме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шижшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шижше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шим рокан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемрокан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шим(ӹ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шем</t>
+       <t pos="A">шеме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимемшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимер</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемер</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимӓлгӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемалге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимӓлгӹ-кырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемалге-кӱрен</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимӓлгӹ-луды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемалге-лудо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимӓлгӹ-ыжар(гы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемалге-ужар</t>
+       <t pos="A">шемалге-ужарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимӓлгӹ-якшар(гы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шемалге-йошкарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шимӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шийме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ширӓк-шапак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шерак-шопак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ширӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шере</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ширӹ-качы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шере-кочо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ширӹ-шапы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шере-шопо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шишкымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱшкымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шишкыш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱшкыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шишкышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱшкышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шишӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шийше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">школыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">школысо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шляпӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шляпан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шоктымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шуктымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шокшемдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шокшемдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шокшештшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шокшештше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шокшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шокшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шонган</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоҥан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шонгемшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоҥгемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шонгештшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоҥештше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шонгы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шоҥго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шорангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шораҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шотдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шотдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шошымшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шошымсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шоэ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шуэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">штукатурлымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">штукатуритлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шудангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шудаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шукемдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шукемдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шукердшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шукертсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шукиӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шукияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шуктымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шуктымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шукы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шуко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шулдештӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулдештарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шулды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шулдӓкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулдакан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шушыран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сусыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шушыртымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">сусыртымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыдӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыжгӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыжака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыжӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыже</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шый</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ший</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыкшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шикшан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шылдыран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулдыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шылдырангшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулдыраҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шылдырдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулдырдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шылшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шылше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шылыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулыдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шылышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шулышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шымиӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шымияш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шымлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шымлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шымымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шумымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шымӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шындӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шындыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шынзӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шинчыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыпшмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шупшмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыргӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱрган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыре</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыре</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шырӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱрымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыцмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шичме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шышмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱшмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шыштӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыште</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓвӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шавыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓйӹк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шайык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓлӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шала</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓлӓвуй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шалавуй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓргӓшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шергашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓрлӓкӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шарлака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓрлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шарлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓрлӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шарлыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓрнӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шарныме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓртнерӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шертнеран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӧртньӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӧртньӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱкшемшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱкшемше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱкшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱкшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱлӹкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱлыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱлымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱмдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱмдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱмӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱнӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӧнан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱнӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӧнаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱйшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱяҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӱӓшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱяшан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹвӓлӹктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱвалыктыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹгерлӓштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱгарласе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹгерӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱгарысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹгызӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱгычмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹдешкӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыдешкыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹдырӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱдыран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹдырӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱдырымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹдышлӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱдышлымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹдышӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱдышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹжвыкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱшпыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹжышӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыжымсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹлтышӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шултышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹнгӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыҥан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹп</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шып</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹплӓнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыпланыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹргӹвылӹшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱргывылышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹрпештшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шырпештше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹрхӓӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыркан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹрӓнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шыраныше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹрӓшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱрашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹшерӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӧран</t>
+       <t pos="A">шӱжӧран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шӹштырӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шӱштыра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыдылмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">удылмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыдыралтмы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">удыралтме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыдыралтшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">удыралтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыдыркалымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">удыркалыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыдыртышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">удыртышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыжар вуй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужарвуй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыжар(гы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужар</t>
+       <t pos="A">ужарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыжаргышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужаргыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыжартымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужартыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыжатымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ужатыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ылшы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">улшо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ымбал</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">умбал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ымбалнышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">умбалсе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ынгмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ынгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ынгылдарымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">умылтарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ынгылдарышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">умландарыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ынгылыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">умылыдымо</t>
+       <t pos="A">ыҥлыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ынгылышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыҥлыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыражан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рожан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыражын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рожын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыргымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ургымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыргышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ургышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ырдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыржа</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">уржа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ырымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">урымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ырӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыраш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ытарымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">утарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">уш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ушан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ышдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ушдымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ышкалан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ушкалан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ышкалдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ушкалдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыштмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱштмӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыштӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱштан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыштӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыштыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ыштӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыштыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эвакуируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эвакуироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эксӹкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">экшыкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">электрифицируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">электрифицироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эмалируйымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эмалироватлыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эргӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эргӹдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эргыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эртӓрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эртарыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эртӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эртыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">эртӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эртыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">юкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱкан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">юкдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱкдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">юран</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">юрдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱрдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">якшар(гы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йошкарге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">якшаргышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йошкаргыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ялан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йолан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ялахай</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йолагай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ялашан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йолашан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">янгыжмаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йоҥыжмаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">янгыштымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йоҥыштымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ярал</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧрал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">яратыдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧратыдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">яратымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧратыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">яратышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧратыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ярдымаш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧрдымаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ярдымы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧрдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ярышан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧршан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ясльыштышы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ясльысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ясы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӧсӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">яштака</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">яшката</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓвӓ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ава</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓвӓдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">авадыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓзӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">азан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓкдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">акдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓкӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">акан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓнгӹремшӹвадан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥыремышвотан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓнгӹрӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥеран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓнгӹрӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥырыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓнгӹрӹштӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥерысе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓнгӹсӹр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">аҥысыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓптӓнӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">агытанаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓргӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эргыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓрдӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эрдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓрнялык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">арнялык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓрняӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">арняш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӓрӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">аран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӧрдышӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӧрдышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱдымӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱйдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱдӹшӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱдышаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱдӹшӓшлык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱдышашлык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱждӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱждымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱлыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱлнӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱлнысӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱлӹксӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱлыкшӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱлӹл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱлыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱпдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱпдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱпшдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱпшдымӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱпшӓлтшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱпшалтше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱпшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱпшан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱпшӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱпшышӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱпӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱпан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱшкӱжӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱшкыжаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱштӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">йӱштӧ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱӓнгдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱяҥдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӱӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱяҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹдӹрӓмӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱдырамаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹлыжтӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ылыжтыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹлыжшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ылыжше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹлыкшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">иле</t>
+       <t pos="A">ылыкше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹлымӓш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">илыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹлӓлшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">илалше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹлӹжтӓрӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ылыжтарыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹмылӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱмылан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹнгыжӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥыжан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹнгырӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥырыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹнгырӹшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">эҥырыше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрвеземшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рвеземше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрвезӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рвезе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрдӓлтӹшӓн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱдалтышан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрдӓнгдӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱдаҥдыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрдӓнгшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">рӱдаҥше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрыктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ырыктыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹрӓлшӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыралше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹшке</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹшкет(ӹн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">шкет</t>
+       <t pos="A">шкетын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹштыктӹмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыштыктыме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹштырлык</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ыштырлык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹштӓлмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ӱшталме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ӹштӓлтмӹ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mhr">
+       <t pos="A">ышталтме</t>
+     </tg>
+   </mg>
+</e>
+</r>
